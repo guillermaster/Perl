@@ -1,0 +1,3 @@
+this is a text sample for the open file sample program in perl.
+this is the second line
+& this is the third one.
